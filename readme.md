@@ -7,7 +7,7 @@ Read the full [Stencil and Storybook tutorial](https://ionicframework.com/blog/h
 To run the app:
 
 ```
-git clone https://github.com/a-giuliano/sortable.git
+git clone https://github.com/a-giuliano/stencil-storybook-html
 
 npm i
 npm run storybook
