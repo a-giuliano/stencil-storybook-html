@@ -10,5 +10,6 @@ To run the app:
 git clone https://github.com/a-giuliano/stencil-storybook-html
 
 npm i
+npm run build
 npm run storybook
 ```
