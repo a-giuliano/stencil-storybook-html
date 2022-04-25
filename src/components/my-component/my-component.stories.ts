@@ -1,6 +1,7 @@
 export default {
     // this creates a ‘Components’ folder and a ‘MyComponent’ subfolder
     title: 'Components/MyComponent',
+    // this is an example of how to add actions to the story
     parameters: {
       actions: {
         argTypesRegex: '^on.*',
