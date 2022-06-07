@@ -4,7 +4,7 @@ export default {
     parameters: {
       actions: {
         argTypesRegex: '^on.*',
-        handles: ['click'] // you can add custom events to this array to trigger actions
+        handles: ['click', 'myEvent'] // you can add custom events to this array to trigger actions
       }
     },
 };

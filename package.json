@@ -31,7 +31,9 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@stencil/core": "^2.13.0"
+    "@stencil/core": "^2.13.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
